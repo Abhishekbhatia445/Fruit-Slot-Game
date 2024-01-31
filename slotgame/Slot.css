@@ -1,0 +1,33 @@
+.slot-machine {
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 20px;
+    font-size: 35px;
+}
+  
+.slots {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    margin-top: 200px;
+}
+  
+  .slot {
+    font-size: 2em;
+    margin: 0 10px;
+  }
+  
+  .spin-button {
+    font-size: 1em;
+    padding: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 160px;
+}
+  
+  .result {
+    font-size: 1.5em;
+    margin-top: 10px;
+    color: green;
+  }
+  
